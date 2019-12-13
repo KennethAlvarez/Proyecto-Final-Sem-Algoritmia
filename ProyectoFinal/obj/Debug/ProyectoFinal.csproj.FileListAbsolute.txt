@@ -1,0 +1,7 @@
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MainForm.resources
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
